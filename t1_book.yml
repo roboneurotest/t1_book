@@ -1,0 +1,21 @@
+title: dsjkfnksjdfns
+summary: Please add a brief (50-60 words) summary of your work. This summary will appear at the publication card (https://neurolibre.com)
+authors:
+- name: sdfsd fsdf dsf
+  website: https://github.com/agahkarakuzu
+  affiliation: Please type in your affiliation here. For multiple affiliations, see the next author entry
+# Please pay attention to indentations when adding multiple authors.
+- name: Another Author
+  website: If availabe, this entry can point to author's GitHub page or personal website. Please delete this line if not available.
+  affiliation:
+    - Affiliation 1
+    - Affiliation 2
+keywords:
+  - kw1
+  - kw2
+submission:
+  date: 2020-06-19
+  id: 17
+  assignee: agahkarakuzu
+  category: Tutorial
+  upstream: https://github.com/agahkarakuzu/t1_book
